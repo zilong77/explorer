@@ -10,7 +10,7 @@
     "addr_prefix": "swtr",
     "logo": "/logos/swisstronic.jpg",
     "assets": [{
-        "base": "uswtr",
+        "base": "aswtr",
         "symbol": "SWTR",
         "exponent": "18", 
         "coingecko_id": "",
