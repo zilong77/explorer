@@ -9,8 +9,8 @@
   "logo": "/logos/tellor.png",
   "assets": [
     {
-      "base": "loya",
-      "symbol": "OYA",
+      "base": "uloya",
+      "symbol": "LOYA",
       "exponent": 18,
       "logo": "/logos/tellor.png"
     }
