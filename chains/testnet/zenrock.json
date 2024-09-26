@@ -7,7 +7,7 @@
     "sdk_version": "v0.50.9",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "zenrock",
+    "addr_prefix": "zen",
     "logo": "/logos/zenrock.png",
     "assets": [{
         "base": "urock",
