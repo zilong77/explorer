@@ -12,7 +12,7 @@
     "assets": [{
         "base": "nhash",
         "symbol": "HASH",
-        "exponent": "6",
+        "exponent": "9",
         "coingecko_id": "",
         "logo": "/logos/provenance.jpg"
     }]
