@@ -11,8 +11,8 @@
     "logo": "/logos/story.jpg",
     "keplr_features": ["eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "uip",
-        "symbol": "IP",
+        "base": "ustake",
+        "symbol": "stake",
         "exponent": "18", 
         "coingecko_id": "",
         "logo": "/logos/story.jpg"
