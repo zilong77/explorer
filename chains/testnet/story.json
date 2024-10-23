@@ -1,0 +1,20 @@
+{
+    "chain_name": "crossfi",
+    "coingecko": "",
+    "api": ["https://api-story-testnet.itrocket.net"], 
+    "rpc": ["https://story-testnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.6",
+    "coin_type": "60",
+    "min_tx_fee": "4000",
+    "addr_prefix": "story",
+    "logo": "/logos/story.jpg",
+    "keplr_features": ["eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "ip",
+        "symbol": "IP",
+        "exponent": "18", 
+        "coingecko_id": "",
+        "logo": "/logos/story.jpg"
+    }]
+}
