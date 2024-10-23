@@ -9,7 +9,7 @@
   "logo": "/logos/warden.png",
   "assets": [
     {
-      "base": "uward",
+      "base": "award",
       "symbol": "WARD",
       "exponent": 6,
       "logo": "/logos/warden.png"
