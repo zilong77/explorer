@@ -1,5 +1,5 @@
 {
-    "chain_name": "crossfi",
+    "chain_name": "story",
     "coingecko": "",
     "api": ["https://api-story-testnet.itrocket.net"], 
     "rpc": ["https://story-testnet-rpc.itrocket.net"],
